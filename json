@@ -1,4 +1,3 @@
-
 {
   "name": "Afghan.coin",
   "symbol": "AFG",
@@ -6,18 +5,10 @@
   "decimals": 9,
   "chainId": 101,
   "logoURI": "https://raw.githubusercontent.com/Afghancoin1/Afghan.coin/main/logo.png",
-  "tags": ["meme", "community"]
-}
-Adding Afghan.coin (AFG) to Solana token list.
-Token Address: 4rxmCJLt2fsCkofAKwU6wMveD4nWoTkRHF7FbHchu6yH
-OpenBook Market: https://openbook.dexlab.space/market/28ezmRBp5S9coK1snZHpaMPuvf7PS9TB6oHSmgYzNDME
-Logo hosted on GitHub: https://raw.githubusercontent.com/Afghancoin1/Afghan.coin/main/logo.png
-Liquidity exists on Raydium.{
-  "chainId": 101,
-  "address": "4rxmCJLt2fsCkofAKwU6wMveD4nWoTkRHF7FbHchu6yH",
-  "symbol": "AFG",
-  "name": "Afghan.coin",
-  "decimals": 9,
-  "logoURI": "https://avatars.githubusercontent.com/u/202557404?v=4",
-  "tags": ["utility-token"]
+  "tags": ["meme", "community", "utility-token"],
+  "extensions": {
+    "website": "https://github.com/Afghancoin1",
+    "serumV3Usdc": "https://openbook.dexlab.space/market/28ezmRBp5S9coK1snZHpaMPuvf7PS9TB6oHSmgYzNDME",
+    "source": "community"
+  }
 }
