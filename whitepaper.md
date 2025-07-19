@@ -71,13 +71,13 @@ Afghan.coin (AFG) is a meme-based community token launched on Solana, aimed at u
 - Explore NFT or payment use cases  
 - First charitable airdrop (if voted by DAO)
 
----[### 5.5 OpenBook Market Link (New Addition)  
+---### 5.5 OpenBook Market Link (New Addition)  
 You can trade and view the Afghan.coin (AFG) market at:  
 [OpenBook Market AFG/SOL](https://openbook.dexlab.space/market/28ezmRBp5S9coK1snZHpaMPuvf7PS9TB6oHSmgYzNDME)  
 
 ### ۵.۵ لینک بازار OpenBook (تکمیل جدید)  
 برای معامله و مشاهده بازار توکن Afghan.coin (AFG)، می‌توانید به لینک زیر مراجعه کنید:  
-[OpenBook Market AFG/SOL](https://openbook.dexlab.space/market/28ezmRBp5S9coK1snZHpaMPuvf7PS9TB6oHSmgYzNDME)]
+[OpenBook Market AFG/SOL](https://openbook.dexlab.space/market/28ezmRBp5S9coK1snZHpaMPuvf7PS9TB6oHSmgYzNDME)---
 
 ## 6. How to Buy AFG
 
