@@ -84,7 +84,7 @@ Afghan.coin (AFG) is a meme-based community token launched on Solana, aimed at u
 ## 7. Community Links
 
 - **YouTube:** [youtube.com/@AFGtoken](https://www.youtube.com/@AFGtoken)  
-- **Twitter (X):** [x.com/Afghan_coins](https://x.com/AFGtoken?t=fUQIrIZUV1Pgd7LHib8uJA&s=09)  
+- **Twitter (X):** [x.com/AFGtoken](https://x.com/AFGtoken?t=fUQIrIZUV1Pgd7LHib8uJA&s=09)  
 - **TikTok:** [tiktok.com/@AFGtoken](https://tiktok.com/@AFGtoken)  
 - **Telegram:** [t.me/AFGtoken](https://t.me/AFGtoken)  
 
