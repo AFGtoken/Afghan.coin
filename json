@@ -4,12 +4,16 @@
   "symbol": "AFG",
   "name": "Afghan.coin",
   "decimals": 9,
-  "logoURI": "https://avatars.githubusercontent.com/u/202557404?v=4",
-  "tags": ["utility-token", "meme"],
+  "logoURI": "https://raw.githubusercontent.com/Afghancoin1/Afghan.coin/main/logo.png",
+  "tags": ["meme", "community", "safe", "no-mint", "locked-liquidity"],
   "extensions": {
     "website": "https://github.com/Afghancoin1",
     "market1": "https://openbook.dexlab.space/market/28ezmRBp5S9coK1snZHpaMPuvf7PS9TB6oHSmgYzNDME",
     "market2": "https://openbook.dexlab.space/market/EXo6WHEVS6rqGsRcksXA1gEzf4ikvqeWYdbrmJF3zJTv",
+    "twitter": "https://x.com/AFGtoken",
+    "telegram": "https://t.me/boost/AFGtoken2",
+    "tiktok": "https://tiktok.com/@AFGtoken",
+    "youtube": "https://youtube.com/@AFGtoken",
     "source": "community"
   }
 }
