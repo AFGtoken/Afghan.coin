@@ -13,7 +13,6 @@ AFG has implemented all key protective measures to ensure investor confidence an
 - ✅ **Freeze Authority Revoked** – No wallets can be frozen or blocked.
 - ✅ **Token Configuration is Immutable** – No upgrades or changes to contract.
 - ✅ **Ownership Renounced** – No admin control or central authority remains.
-- ✅ **LP Tokens Locked Until July 30, 2026** – Viewable on-chain.
 - ✅ **No Hidden Fees** – 0% transfer or trade tax.
 - ✅ **Open Source & Transparent** – Full code and documentation are public.
 
@@ -29,7 +28,7 @@ AFG has implemented all key protective measures to ensure investor confidence an
 - **Decimals:** 9  
 - **Chain:** Solana (Mainnet, Chain ID: 101)  
 - **Logo:** ![AFG Logo](https://raw.githubusercontent.com/Afghancoin1/Afghan.coin/main/logo.png)  
-- **Tags:** meme, community, safe, no-mint, locked-liquidity  
+- **Tags:** meme, community, safe, no-mint  
 
 ---
 
@@ -52,14 +51,6 @@ To ensure transparency and long-term commitment, 30% of the total supply has bee
 - **Locked Wallet Address:** `E2LzK9p57mEQCjAoeApfh2LQWk9Nf37y9DjAHwzNPUb1`
 
 No tokens will be moved or utilized from this wallet before the unlock date.
-
----
-
-## 🔒 LP Token Lock
-
-All liquidity pool (LP) tokens are locked in a separate wallet until **July 30, 2026** to prevent rug pulls and maintain market integrity.
-
-- **LP Locked Wallet Address:** `52fDombypDrutFMceRMGDCMZG2qz5z7Ersw13GkMgq4Y`
 
 ---
 
