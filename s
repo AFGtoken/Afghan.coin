@@ -1,1 +1,0 @@
-https://github.com/solana-labs/token-list/compare/main...Afghancoin1:main
