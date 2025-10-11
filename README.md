@@ -1,76 +1,148 @@
-# Afghan.coin (AFG)
+Afghan.coin (AFG)
 
-Afghan.coin (AFG) is a decentralized meme token built on the Solana blockchain.  
-It aims to bring the Afghan community together in the Web3 space through transparency, fairness, and creative use of blockchain technology.
 
----
 
-## 🔒 Security Summary
+Version: 1.4 (MiCA-Compliant Edition)
 
-AFG has implemented all key protective measures to ensure investor confidence and full decentralization:
+Updated: October 11, 2025
 
-- ✅ **Mint Authority Revoked** – No more AFG tokens can ever be minted.
-- ✅ **Freeze Authority Revoked** – No wallets can be frozen or blocked.
-- ✅ **Token Configuration is Immutable** – No upgrades or changes to contract.
-- ✅ **Ownership Renounced** – No admin control or central authority remains.
-- ✅ **No Hidden Fees** – 0% transfer or trade tax.
-- ✅ **Open Source & Transparent** – Full code and documentation are public.
+Blockchain: Solana (SPL Token)
 
-🔗 All details are documented in the [Whitepaper (v1.2)](https://github.com/Afghancoin1/Afghan.coin/blob/main/whitepaper.md#-token-security--transparency)
+Registered in: Toulouse, France
+
+Contact: contact@afghancoin.org
+
 
 ---
 
-## 🪙 Token Information
+Overview
 
-- **Token Name:** Afghan.coin  
-- **Symbol:** AFG  
-- **Mint Address:** `4rxmCJLt2fsCkofAKwU6wMveD4nWoTkRHF7FbHchu6yH`  
-- **Decimals:** 9  
-- **Chain:** Solana (Mainnet, Chain ID: 101)  
-- **Logo:** ![AFG Logo](https://raw.githubusercontent.com/Afghancoin1/Afghan.coin/main/logo.png)  
-- **Tags:** meme, community, safe, no-mint  
+Afghan.coin (AFG) is a community-driven meme token on the Solana blockchain, created to unite Afghans and Web3 enthusiasts worldwide. The token is designed to be transparent, decentralized, and compliant with EU MiCA regulations.
 
----
+AFG aims to promote:
 
-## 📊 Token Allocation
+Community participation and education in Web3
 
-| Allocation                            | Percentage |
-|--------------------------------------|------------|
-| Locked Tokens (until May 16, 2026)   | 30%        |
-| Liquidity Pool (Raydium / OpenBook)  | 25%        |
-| Airdrop                              | 5%         |
-| Project Treasury, Team & Marketing   | 20%        |
-| Reserve / Future Use                 | 20%        |
+Sustainable liquidity and decentralized token governance
+
+Future social impact initiatives through DAO voting
+
+
+> Disclaimer: AFG is not a security or investment product. No financial returns or dividends are guaranteed.
+
+
+
 
 ---
 
-## 🔐 Locked Wallet
+Token Specifications
 
-To ensure transparency and long-term commitment, 30% of the total supply has been locked in a separate wallet until **May 16, 2026**.
+Token Name: Afghan.coin
 
-- **Locked Wallet Address:** `E2LzK9p57mEQCjAoeApfh2LQWk9Nf37y9DjAHwzNPUb1`
+Symbol: AFG
 
-No tokens will be moved or utilized from this wallet before the unlock date.
+Blockchain: Solana (SPL)
 
----
+Total Supply: 1,000,000,000
 
-## 📣 Community & Socials
+Decimals: 9
 
-- **YouTube:** [@AFGtoken](https://youtube.com/@AFGtoken)  
-- **Twitter (X):** [@AFGtoken](https://x.com/AFGtoken)  
-- **TikTok:** [@AFGtoken](https://tiktok.com/@AFGtoken)  
-- **Telegram:** [@AFGtoken2](https://t.me/boost/AFGtoken2)
+Mint Address: 4rxmCJLt2fsCkofAKwU6wMveD4nWoTkRHF7FbHchu6yH
 
----
+Chain ID: 101
 
-## 📝 Notes
+Locked Wallets: E2LzK9p57mEQCjAoeApfh2LQWk9Nf37y9DjAHwzNPUb1
 
-- Liquidity is currently reduced temporarily while an OpenBook market is being established to prevent early price manipulation.  
-- Airdrops will be conducted from a separate wallet, not from the locked wallet, to maintain lock integrity.  
-- Token ownership has been renounced and cannot be recovered — ensuring full decentralization.
+
 
 ---
 
-*This README serves as an official and transparent overview of the Afghan.coin project and will be updated as new developments occur.*
+Roadmap
 
-_Last updated: August 1, 2025_
+Phase 1: Launch & Setup (Q2 2025)
+
+Token deployed on Solana (SPL)
+
+Liquidity pool created on Raydium
+
+GitHub repo, logo, and whitepaper published
+
+Locked wallet setup completed
+
+
+Phase 2: Market Building (Q3 2025)
+
+Launch OpenBook market
+
+Execute community airdrop (5%)
+
+Grow social presence via TikTok, Telegram, X
+
+
+Phase 3: Growth & Utility (Q4 2025 – Q1 2026)
+
+List on DEX aggregators like Jupiter
+
+Apply for Solana token list and DEXTools visibility
+
+Explore NFT/payment use cases
+
+Begin first DAO-voted social impact airdrop
+
+
+
+---
+
+How to Buy
+
+1. Use wallets such as Phantom, Solflare, or Trust Wallet
+
+
+2. Add the AFG mint address manually if not visible by default
+
+
+3. Trade on Raydium or OpenBook using AFG/USDC pair
+
+
+
+
+---
+
+Risk Warning
+
+Market Risk: Token value may fluctuate or become illiquid.
+
+Technology Risk: Solana network or DEX platforms may experience failures or downtime.
+
+Regulatory Risk: Future EU or national laws may affect trading or taxation.
+
+Operational Risk: No guarantee of continuous development.
+
+Loss Risk: Users are responsible for safeguarding private keys and wallet access.
+
+
+> Important: Afghan.coin is a community token. Participation is voluntary, and no financial returns are guaranteed.
+
+
+
+
+---
+
+Legal Notice & Compliance
+
+Afghan.coin (AFG) complies with:
+
+EU Regulation MiCA 2023/1114
+
+French AMF guidance
+
+GDPR and CNIL regulations
+
+
+Any future charity or promotional campaign will comply with French Association Law (Loi 1901).
+
+
+---
+
+
+
