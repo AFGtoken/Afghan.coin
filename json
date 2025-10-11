@@ -1,2 +1,37 @@
-{ "name": "Afghan.coin", "symbol": "AFG", "description": "Afghan.coin (AFG) is a community-driven meme token on Solana blockchain. Transparent, decentralized, and compliant with EU MiCA regulations. This token aims to unite Afghans and Web3 enthusiasts.", "image": "https://afghancoin.org/logo.png", "external_url": "https://afghancoin.org", "mint_address": "4rxmCJLt2fsCkofAKwU6wMveD4nWoTkRHF7FbHchu6yH", "chain_id": 101, "decimals": 9, "total_supply": 1000000000, "jurisdiction": { "country": "France", "city": "Toulouse", "regulatory_compliance": "MiCA 2023/1114, AMF" }, "contact_email": "contact@afghancoin.org", "social_links": { "website": "https://afghancoin.org", "youtube": "https://youtube.com/@AFGtoken", "twitter": "https://x.com/AFGtoken", "tiktok": "https://tiktok.com/@AFGtoken", "telegram": "https://t.me/boost/AFGtoken2" }, "risk_warning": "AFG is a community token. No financial returns or guarantees are provided. Users are responsible for their own wallet and private key security.", "gdpr_compliance": true, "locked_wallets": ["E2LzK9p57mEQCjAoeApfh2LQWk9Nf37y9DjAHwzNPUb1"] }
 
+{
+    "name": "Afghan.coin",
+    "symbol": "AFG",
+    "description": "Afghan.coin (AFG) is a community-driven meme token on the Solana blockchain. Transparent, decentralized, and compliant with EU MiCA regulations. This token aims to unite Afghans and Web3 enthusiasts.",
+    "image": "https://afghancoin.org/logo.png",
+    "external_url": "https://afghancoin.org",
+    "mint_address": "4rxmCJLt2fsCkofAKwU6wMveD4nWoTkRHF7FbHchu6yH",
+    "chain_id": 101,
+    "decimals": 9,
+    "total_supply": 1000000000,
+    "jurisdiction": {
+        "country": "France",
+        "city": "Toulouse",
+        "regulatory_compliance": "MiCA 2023/1114, AMF"
+    },
+    "contact_email": "contact@afghancoin.org",
+    "social_links": {
+        "website": "https://afghancoin.org",
+        "youtube": "https://youtube.com/@AFGtoken",
+        "twitter": "https://x.com/AFGtoken",
+        "tiktok": "https://tiktok.com/@AFGtoken",
+        "telegram": "https://t.me/boost/AFGtoken2"
+    },
+    "risk_warning": "AFG is a community token. No financial returns or guarantees are provided. Users are responsible for their own wallet and private key security.",
+    "gdpr_compliance": true,
+    "locked_wallets": [
+        "E2LzK9p57mEQCjAoeApfh2LQWk9Nf37y9DjAHwzNPUb1"
+    ],
+    "tags": [
+        "meme",
+        "community",
+        "solana",
+        "afghan",
+        "mica-compliant"
+    ]
+}
